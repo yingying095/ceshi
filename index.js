@@ -11,8 +11,8 @@ module.exports = {
     assetsPublicPath: '/',
     proxyTable: {
       '/api': {
-        //  target: 'https://mock.boxuegu.com/mock/254',
-         target: 'http://mock.course.itcast.cn/mock/20',
+          target: 'https://mock.boxuegu.com/mock/254',
+        //  target: 'http://mock.course.itcast.cn/mock/20',
           //  target: ' http://hmapi.course.itcast.cn',
         // target: 'https://www.easy-mock.com/mock/5ab213e33666166110a94928/admin',
         // target: 'http://127.0.0.1:7001',
